@@ -2,7 +2,7 @@
   "name": "weapp.engine.io",
   "description": "Client for the realtime Engine for weapp",
   "license": "MIT",
-  "version": "0.0.4",
+  "version": "0.1.0",
   "main": "lib/index.js",
   "homepage": "https://github.com/wxsocketio/weapp.engine.io.git",
   "contributors": [
